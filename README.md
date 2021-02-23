@@ -1,6 +1,6 @@
 
-<h2> Hey there! I'm Richard. <img src="https://github.com/xinlc/xinlc/blob/master/image/hi.gif?raw=true" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/xinlc/xinlc/blob/master/gif4.gif?raw=true" width="500"/>
+<h2> Hey there! I'm Richard. <img src="https://github.com/xinlc/xinlc/blob/main/image/hi.gif?raw=true" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/xinlc/xinlc/blob/main/gif4.gif?raw=true" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
